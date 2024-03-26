@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "9693952906",
+    "firebase_url": "https://argjapp-default-rtdb.firebaseio.com",
+    "project_id": "argjapp",
+    "storage_bucket": "argjapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9693952906:android:a6a351f971c04baa8be673",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.RiskAR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9693952906-h6r039gipha0o356t84jbgom20hp0d9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCteU1aUOQe83Uf3eQNIWSF2rwyksp_zAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9693952906-h6r039gipha0o356t84jbgom20hp0d9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "9693952906-k05adlleqa9g0eh8u4md8n47d0e7oc7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.RiskAR33"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9693952906:android:f20fd43c4ce6f1368be673",
+        "android_client_info": {
+          "package_name": "com.djardev.gjar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9693952906-h6r039gipha0o356t84jbgom20hp0d9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCteU1aUOQe83Uf3eQNIWSF2rwyksp_zAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9693952906-h6r039gipha0o356t84jbgom20hp0d9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "9693952906-k05adlleqa9g0eh8u4md8n47d0e7oc7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.RiskAR33"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6544690101337316335
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 593648950079476902}
+  - component: {fileID: 2715242362992153990}
+  m_Layer: 0
+  m_Name: Bonsai
+  m_TagString: Item
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &593648950079476902
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6544690101337316335}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2216184947036843226}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2715242362992153990
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6544690101337316335}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.43077967, y: 0.43532693, z: 0.37356353}
+  m_Center: {x: 0.042917386, y: 0.21677166, z: 0.04546714}
+--- !u!1001 &1822762726419565361
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 593648950079476902}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0545
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.2057
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0441
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_Name
+      value: bonsai-corona
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+--- !u!4 &2216184947036843226 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1b742d29414c25444b59cab98041935d, type: 3}
+  m_PrefabInstance: {fileID: 1822762726419565361}
+  m_PrefabAsset: {fileID: 0}

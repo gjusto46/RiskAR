@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0bcb85afbec0d34089e98dbbe8ed5c9, type: 3}
+  m_Name: InfoObjectMesaSpray
+  m_EditorClassIdentifier: 
+  title: Aerosoles
+  description: "Los aerosoles, adem\xE1s de tener un impacto profundo en el medio
+    ambiente, tambi\xE9n son muy utilizados en nuestra vida diaria. Sus propiedades
+    f\xEDsicas y qu\xEDmicas son com\xFAnmente utilizadas por la industria, donde
+    tales mezclas forman un componente importante de numerosos productos, asignados
+    a muchas aplicaciones."

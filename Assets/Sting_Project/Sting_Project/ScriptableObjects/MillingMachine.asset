@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07805ec630d9f554ba1c3b8cdde5201f, type: 3}
+  m_Name: MillingMachine
+  m_EditorClassIdentifier: 
+  ItemName: MillingMachine
+  ItemImage: {fileID: 21300000, guid: 25b7a0d8d0d244645b72f1c6363d9657, type: 3}
+  ItemDescription: Milling
+  Item3DModel: {fileID: 3191231225661302679, guid: 50a809a8fff1d7e46bdda6afca078069, type: 3}

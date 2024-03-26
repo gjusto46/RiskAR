@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>9693952906-k05adlleqa9g0eh8u4md8n47d0e7oc7l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.9693952906-k05adlleqa9g0eh8u4md8n47d0e7oc7l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-OaXebPwNHJV3A3KzOiJRYLSFSnlvrwQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>9693952906</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.DefaultCompany.RiskAR33</string>
+	<key>PROJECT_ID</key>
+	<string>argjapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>argjapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:9693952906:ios:0b020a022ac7496b8be673</string>
+	<key>DATABASE_URL</key>
+	<string>https://argjapp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

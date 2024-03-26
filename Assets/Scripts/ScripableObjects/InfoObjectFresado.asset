@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0bcb85afbec0d34089e98dbbe8ed5c9, type: 3}
+  m_Name: InfoObjectFresado
+  m_EditorClassIdentifier: 
+  title: "\xC1rea de fresado"
+  description: "En esta sub\xE1rea se procesan todos los recursos o sub-productos
+    que requieren ser fresados, es decir tener una mecanizaci\xF3n o desgaste para
+    obtener las piezas del prodcuto final. En este caso las piezas peque\xF1as de
+    acero se transformar\xE1n en los espacios de enganche que unir\xE1n a las barandas
+    cuando quieran conectarse en serie."
