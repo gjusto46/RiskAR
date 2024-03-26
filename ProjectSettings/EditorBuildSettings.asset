@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c167dcb2976802e4f84cbecbbff4bc30
+  - enabled: 1
+    path: Assets/Scenes/ImageTraking Creacion.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Sting_Project/Sting_Project/Scenes/PlaneDetection.unity
+    guid: e0b816bc11b9f6a4b903bf50134d4768
+  - enabled: 1
+    path: Assets/Scenes/ImageTraking Visualizacion.unity
+    guid: 0d0a15b0ca11fd244bfdd9978912709e
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ff96791b20d45484699fd05d6ba6fb3f, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: eeb04f4f89535044b88795c25f8b9c9d, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 49014dd2c6f1a5346900a70e05e37682, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2b3022afb2aee67408491b7346b69057, type: 2}
